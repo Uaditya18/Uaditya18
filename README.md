@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Uaditya18/Uaditya18/blob/main/background%20aditya.png)
 <h1 align="center">Hi 👋, I'm Aditya Upadhyay</h1>
 <h3 align="center">A versatile learner, to develop full stack application.</h3>
 
