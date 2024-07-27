@@ -1,9 +1,9 @@
 ![logo](https://github.com/Uaditya18/Uaditya18/blob/main/background%20aditya.png)
 
-<h3 align="center">Versatile developer pursuing a B. Tech in Computer Science and Engineering, seeking an entry-level position in the
+<p>Versatile developer pursuing a B. Tech in Computer Science and Engineering, seeking an entry-level position in the
  technical domain. Skilled in SQL, Java, machine learning with Python, and Android development. Focused on
  implementing algorithms and models for data analysis and building functional applications. Proficient in data
- structures and algorithms, continuously improving problem-solving abilities.</h3>
+ structures and algorithms, continuously improving problem-solving abilities.<p>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uaditya18&label=Profile%20views&color=0e75b6&style=flat" alt="uaditya18" /> </p>
