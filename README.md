@@ -5,7 +5,9 @@
  implementing algorithms and models for data analysis and building functional applications. Proficient in data
  structures and algorithms, continuously improving problem-solving abilities.<p>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c620891a-c1bc-4968-b4c7-2a0a6e0bf5b7)">
+<video height="200" controls>
+align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c620891a-c1bc-4968-b4c7-2a0a6e0bf5b7)"
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uaditya18&label=Profile%20views&color=0e75b6&style=flat" alt="uaditya18" /> </p>
 
 - 🌱 I’m currently learning **js,react,spring**
